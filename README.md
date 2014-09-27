@@ -2,10 +2,20 @@
 A curated list of amazingly awesome open source resources for broadcasters inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin). Check [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) for IT related projects.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
+  * [Codecs](#codecs)
+  * [Connected TVs](#connected-tvs)
+  * [DVB](#dvb)
+  * [Graphics & Video Playout](#graphics--video-playout)
+  * [Hybrid Radio](#hybrid-radio)
+  * [Media Player](#media-player)
+  * [Multimedia content processing](#media-player)
+  * [Metadata](#metadata)
+  * [Software-defined radio](#software-defined-radio)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
 * [Contributing](#contributing)
+
 
 ## Codecs
 
@@ -14,6 +24,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Connected TVs
 
+* [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [TAL](http://fmtvp.github.io/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
 
@@ -29,19 +40,19 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006
 
 
-## Html-based/Browser components
-
-* [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
-
-
 ## Hybrid Radio
 
-* [EBU Content Manager]()
-* [RadioDNS manager](https://github.com/ebu/radiodns-plugit) - 
+* [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
+* [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in javascript.
+* [RadioVis Html Player](https://github.com/ebu/radiovis-html5player) - RadioVis Player using WebSocket.
+
 
 ## Media Player
 
+* [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
+
 
 ## Metadata
 
@@ -58,7 +69,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
 
 
-## Software-define radio
+## Software-defined radio
 
 * [CRC mmbTools](http://mmbtools.crc.ca/) - Tools for DAB digital radio multiplexing and software defined radio modulation.
 
