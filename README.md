@@ -4,9 +4,6 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [Awesome Broadcasting](#awesome-broadcasting)
 * [Resources](#resources)
   * [Blogs](#blogs)
-  * [Books](#books)
-  * [Editors](#editors)
-  * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
 
