@@ -16,6 +16,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Websites](#websites)
 * [Contributing](#contributing)
 
+<!-- This page is available on http://ebu.io/opensource -->
 
 ## Codecs
 
@@ -86,6 +87,8 @@ Various resources, such as books, websites and articles, for improving your skil
 *Useful broadcasting related websites.*
 
 * [EBU.io](http://www.ebu.io) - A platform for agile collaboration.
+
+<!-- This page is available on http://ebu.io/opensource -->
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
