@@ -2,6 +2,7 @@
 A curated list of amazingly awesome open source resources for broadcasters inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin). Check [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) for IT related projects.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
+  * [Audio over IP](#Audio-over-IP)
   * [Codecs](#codecs)
   * [Connected TVs](#connected-tvs)
   * [DVB](#dvb)
@@ -10,6 +11,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Media Player](#media-player)
   * [Multimedia content processing](#media-player)
   * [Metadata](#metadata)
+  * [Radio Production](#Radio Production)
   * [Software-defined radio](#software-defined-radio)
 * [Resources](#resources)
   * [Blogs](#blogs)
@@ -17,10 +19,18 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [Contributing](#contributing)
 
 <!-- This page is available on http://ebu.io/opensource -->
+## Audio over IP
+
+* [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP)
+* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
+* [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 
 ## Codecs
 
 * [Opus](http://www.opus-codec.org) - Opus is a totally open, royalty-free, highly versatile audio codec. 
+* [FLAC](https://www.xiph.org/flac/) - FLAC Free Lossless Audio Coding. Used by some broadcaster for audio exchange, storage.
+* [Lame](http://lame.sourceforge.net/) - Lame, high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!)
+* [TwoLame](http://www.twolame.org/) - TwoLame, MPEG Audio Layer 2 (MP2) encoder.
 
 
 ## Connected TVs
@@ -53,6 +63,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
+* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools
 
 
 ## Metadata
@@ -69,10 +80,15 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [TuttleOFX](http://www.tuttleofx.org/) - TuttleOFX is an open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
 
+## Radio Production
+
+* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds
+* [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
 
 ## Software-defined radio
 
-* [CRC mmbTools](http://mmbtools.crc.ca/) - Tools for DAB digital radio multiplexing and software defined radio modulation.
+* [CRC mmbTools](http://mmbtools.crc.ca/) - Original Tools for DAB digital radio multiplexing and software defined radio modulation.
+* [ODR mmbTools](http://www.opendigitalradio.org) - Fork, continuation of CRC mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
 
 
 # Resources
