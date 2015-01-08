@@ -20,6 +20,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 <!-- This page is available on http://ebu.io/opensource -->
 ## Audio over IP
+
 * [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP)
 * [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
@@ -80,8 +81,9 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
 
 ## Radio Production
-*[Audacity](http://audacity.sourceforge.net/) - Free, open source, cross-platform software for recording and editing sounds
-*[Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
+
+* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds
+* [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
 
 ## Software-defined radio
 
