@@ -92,7 +92,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Subtitlting
 
-* [Subtitling Conversion Framework (SCF)][https://github.com/Irt-Open-Source/scf] - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
+* [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
