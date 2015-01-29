@@ -13,6 +13,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Metadata](#metadata)
   * [Radio Production](#Radio Production)
   * [Software-defined radio](#software-defined-radio)
+  * [Subtitling](#subtitling)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
