@@ -13,6 +13,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Metadata](#metadata)
   * [Radio Production](#Radio Production)
   * [Software-defined radio](#software-defined-radio)
+  * [Subtitling](#subtitling)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
@@ -90,6 +91,9 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [CRC mmbTools](http://mmbtools.crc.ca/) - Original Tools for DAB digital radio multiplexing and software defined radio modulation.
 * [ODR mmbTools](http://www.opendigitalradio.org) - Fork, continuation of CRC mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
 
+## Subtitling
+
+* [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
