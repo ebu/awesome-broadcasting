@@ -11,6 +11,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Media Player](#media-player)
   * [Multimedia content processing](#media-player)
   * [Metadata](#metadata)
+  * [Quality Control](#quality-control)
   * [Radio Production](#Radio Production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
@@ -71,6 +72,11 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 
+
+
+## Quality Control
+
+* [libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 
 ## Multimedia content processing
 
