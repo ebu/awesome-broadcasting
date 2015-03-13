@@ -4,6 +4,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [Awesome Broadcasting](#awesome-broadcasting)
   * [Audio over IP](#Audio-over-IP)
   * [Codecs](#codecs)
+  * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
   * [DVB](#dvb)
   * [Graphics & Video Playout](#graphics--video-playout)
@@ -34,6 +35,10 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [Lame](http://lame.sourceforge.net/) - Lame, high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!)
 * [TwoLame](http://www.twolame.org/) - TwoLame, MPEG Audio Layer 2 (MP2) encoder.
 
+## Companion Screens
+
+* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - dvbcss-synctiming is a system for measuring how accurately a TV or companion are synchronised.
+* [pydvbcss](https://github.com/BBC/pydvbcss) - pydvbcss is library implementing the DVB Companion Screens and Streams protocols for accurately synchronising media playback between TVs and companions.
 
 ## Connected TVs
 
