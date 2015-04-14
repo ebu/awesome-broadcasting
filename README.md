@@ -16,7 +16,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Radio Production](#Radio Production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
-  * [Network & Storage Testing](#Network--Storage-Testing)
+  * [Network & Storage Testing](#network--storage-testing)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
