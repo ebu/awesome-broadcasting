@@ -10,8 +10,8 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
   * [Media Player](#media-player)
-  * [Multimedia content processing](#media-player)
   * [Metadata](#metadata)
+  * [Multimedia content processing](#media-player)
   * [Network & Storage Testing](#network--storage-testing)
   * [Quality Control](#quality-control)
   * [Radio Production](#Radio Production)
@@ -79,10 +79,6 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 
 
-## Quality Control
-
-* [libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
-
 
 ## Multimedia content processing
 
@@ -96,6 +92,10 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
+
+## Quality Control
+
+* [libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 
 ## Radio Production
 
