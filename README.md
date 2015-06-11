@@ -6,6 +6,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Codecs](#codecs)
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
+  * [Distributed Media Processing](#distributed-media-processing)
   * [DVB](#dvb)
   * [Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
@@ -46,6 +47,9 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [TAL](http://fmtvp.github.io/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
+## Distributed Media Processing
+
+* [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## DVB
 
