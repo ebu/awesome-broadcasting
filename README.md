@@ -2,7 +2,7 @@
 A curated list of amazingly awesome open source resources for broadcasters inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin). Check [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) for IT related projects.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
-  * [Audio over IP](#Audio-over-IP)
+  * [Audio over IP](#audio-over-ip)
   * [Codecs](#codecs)
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
@@ -12,10 +12,10 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Hybrid Radio](#hybrid-radio)
   * [Media Player](#media-player)
   * [Metadata](#metadata)
-  * [Multimedia content processing](#media-player)
+  * [Multimedia content processing](#multimedia-content-processing)
   * [Network & Storage Testing](#network--storage-testing)
   * [Quality Control](#quality-control)
-  * [Radio Production](#Radio Production)
+  * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
 * [Resources](#resources)
