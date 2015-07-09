@@ -74,7 +74,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Multimedia content processing
 
-* [codem-isoboxer] (https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+* [Codem-isoboxer] (https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
