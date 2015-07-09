@@ -94,6 +94,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Subtitling
 
+* [EBU-TT-D W3C XML Schema] (https://github.com/ebu/ebu-tt-d-xsd/) Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
 
 # Resources
