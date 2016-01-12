@@ -14,7 +14,6 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Metadata](#metadata)
   * [Multimedia content processing](#multimedia-content-processing)
   * [Network & Storage Testing](#network--storage-testing)
-  * [Quality Control](#quality-control)
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
@@ -91,6 +90,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
+* [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [TuttleOFX](http://www.tuttleofx.org/) - TuttleOFX is an open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
@@ -98,10 +98,6 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
-
-## Quality Control
-
-* [libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 
 ## Radio Production
 
