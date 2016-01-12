@@ -57,18 +57,15 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - DVBlast is a simple and powerful MPEG-2/TS demux and streaming application.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
 
-
 ## Graphics & Video Playout
 
 * [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006
-
 
 ## Hybrid Radio
 
 * [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in javascript.
 * [RadioVis Html Player](https://github.com/ebu/radiovis-html5player) - RadioVis Player using WebSocket.
-
 
 ## Media Player
 
@@ -77,12 +74,9 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools
 
-
 ## Metadata
 
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
-
-
 
 ## Multimedia content processing
 
@@ -116,7 +110,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Subtitling
 
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles. 
-* [EBU-TT-D Subtitling within dash.js] (https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - A fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay.
+* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema] (https://github.com/ebu/ebu-tt-d-xsd/) Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
@@ -127,7 +121,6 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Blogs
 
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
-
 
 ## Websites
 *Useful broadcasting related websites.*
