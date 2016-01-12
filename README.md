@@ -107,7 +107,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles. 
 * [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js](https://github.com/ebu/dash.js).
-* [EBU-TT-D W3C XML Schema] (https://github.com/ebu/ebu-tt-d-xsd/) Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
+* [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
 
