@@ -70,6 +70,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Media Player
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools
