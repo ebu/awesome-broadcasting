@@ -97,6 +97,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Quality Control
 
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo provides a convenient unified display of the most relevant technical and tag data for video and audio files.
+* [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 
 ## Radio Production
 
