@@ -10,10 +10,11 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [DVB](#dvb)
   * [Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
-  * [Media Players](#media-players)
+  * [Media Player](#media-player)
   * [Metadata](#metadata)
   * [Multimedia content processing](#multimedia-content-processing)
   * [Network & Storage Testing](#network--storage-testing)
+  * [Quality Control](#quality-control)
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
@@ -66,7 +67,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in javascript.
 * [RadioVis Html Player](https://github.com/ebu/radiovis-html5player) - RadioVis Player using WebSocket.
 
-## Media Players
+## Media Player
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
@@ -92,6 +93,10 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
+
+## Quality Control
+
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo provides a convenient unified display of the most relevant technical and tag data for video and audio files.
 
 ## Radio Production
 
