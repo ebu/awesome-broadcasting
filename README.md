@@ -10,7 +10,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [DVB](#dvb)
   * [Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
-  * [Media Player](#media-player)
+  * [Media Players](#media-players)
   * [Metadata](#metadata)
   * [Multimedia content processing](#multimedia-content-processing)
   * [Network & Storage Testing](#network--storage-testing)
@@ -67,7 +67,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in javascript.
 * [RadioVis Html Player](https://github.com/ebu/radiovis-html5player) - RadioVis Player using WebSocket.
 
-## Media Player
+## Media Players
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
