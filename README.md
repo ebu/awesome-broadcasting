@@ -7,7 +7,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
   * [Distributed Media Processing](#distributed-media-processing)
-  * [DVB](#dvb)
+  * [DVB & WiFi](#dvb--wifi)
   * [Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
   * [Media Player](#media-player)
@@ -51,11 +51,12 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 * [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
-## DVB
+## DVB & WiFi
 
 * [DVB Inspector](http://dvbinspector.com/) - DVB Inspector is an open-source DVB analyzer.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - DVBlast is a simple and powerful MPEG-2/TS demux and streaming application.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
+* [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
 ## Graphics & Video Playout
 
