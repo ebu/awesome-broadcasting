@@ -7,7 +7,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
   * [Distributed Media Processing](#distributed-media-processing)
-  * [DVB](#dvb)
+  * [DVB & WiFi](#dvb--wifi)
   * [Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
   * [Media Players](#media-players)
@@ -51,12 +51,13 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 * [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
-## DVB
+## DVB & WiFi
 
 * [DTT 2 IP](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
 * [DVB Inspector](http://dvbinspector.com/) - DVB Inspector is an open-source DVB analyzer.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - DVBlast is a simple and powerful MPEG-2/TS demux and streaming application.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
+* [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
 ## Graphics & Video Playout
 
@@ -103,6 +104,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo provides a convenient unified display of the most relevant technical and tag data for video and audio files.
+* [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 
 ## Radio Production
 
