@@ -59,6 +59,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Graphics & Video Playout
 
+* [Aurena](https://github.com/thaytan/aurena) - Aurena is a network distributed media playback system.
 * [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006
 
 ## Hybrid Radio
