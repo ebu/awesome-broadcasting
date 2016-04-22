@@ -137,6 +137,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Blogs
 
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
+* [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies
 
 ## Websites
 *Useful broadcasting related websites.*
