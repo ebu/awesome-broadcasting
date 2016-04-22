@@ -85,6 +85,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Multimedia content processing
 
+* [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python.
 * [Codem-isoboxer] (https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
@@ -137,7 +138,8 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Blogs
 
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
-* [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies
+* [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
+* [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community.
 
 ## Websites
 *Useful broadcasting related websites.*
