@@ -137,6 +137,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Blogs
 
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
+* [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community
 
 ## Websites
 *Useful broadcasting related websites.*
