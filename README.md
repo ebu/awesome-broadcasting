@@ -45,7 +45,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Connected TVs
 
 * [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
-* [TAL](http://fmtvp.github.io/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
+* [TAL](http://fmtvp.github.io/tal) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
 ## Distributed Media Processing
 
