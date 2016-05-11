@@ -1,5 +1,5 @@
-# Awesome Broadcasting
-A curated list of amazingly awesome open source resources for broadcasters inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin). Check [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) for IT related projects.
+# Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
   * [Audio over IP](#audio-over-ip)
