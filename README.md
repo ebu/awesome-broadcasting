@@ -1,5 +1,5 @@
-# Awesome Broadcasting
-A curated list of amazingly awesome open source resources for broadcasters inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin). Check [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) for IT related projects.
+# Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
   * [Audio over IP](#audio-over-ip)
@@ -45,7 +45,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Connected TVs
 
 * [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
-* [TAL](http://fmtvp.github.io/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
+* [TAL](http://fmtvp.github.io/tal) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
 ## Distributed Media Processing
 
@@ -82,6 +82,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 ## Metadata
 
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
+* [jebu-core](https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
 
 ## Multimedia content processing
 
@@ -107,6 +108,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
 
 ## Quality Control
 
+* [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - BeaqleJS provides a framework to create browser based listening tests for subjective audio quality assessment.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo provides a convenient unified display of the most relevant technical and tag data for video and audio files.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files
@@ -140,6 +142,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
 * [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
 * [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community.
+* [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 
 ## Websites
 *Useful broadcasting related websites.*
