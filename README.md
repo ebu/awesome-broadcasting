@@ -78,6 +78,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools
+* [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports.
 
 ## Metadata
 
