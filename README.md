@@ -122,6 +122,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds
 * [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
+* [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used [worldwide](http://rivendell.tryphon.org/wiki/Stations_using_Rivendell). Community [Wiki page](http://rivendell.tryphon.org/wiki/Main_Page)
 
 ## Software-defined radio
 
