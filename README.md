@@ -96,6 +96,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
+* [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
 * [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
