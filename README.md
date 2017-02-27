@@ -56,7 +56,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## DVB & WiFi
 
 * [DTT 2 IP](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
-* [DVB Inspector](http://dvbinspector.com/) - DVB Inspector is an open-source DVB analyzer.
+* [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - DVB Inspector is an open-source DVB analyzer.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - DVBlast is a simple and powerful MPEG-2/TS demux and streaming application.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
