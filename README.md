@@ -3,6 +3,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
   * [Audio over IP](#audio-over-ip)
+  * [Broadcasting](#broadcasting)
   * [Codecs](#codecs)
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
@@ -18,6 +19,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
+
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
@@ -29,6 +31,11 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP)
 * [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
+
+## Broadcasting
+
+* [OBServer](https://github.com/openbroadcaster/observer) - OpenBroadcaster Server
+* [OBPlayer](https://github.com/openbroadcaster/obplayer) - OpenBroadcaster Player
 
 ## Codecs
 
@@ -97,10 +104,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
-* [Codem-isoboxer] (https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+* [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation
+* [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/dynamorse) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
+* [Flowblade](https://github.com/jliljebl/flowblade) - A Multitrack non-linear video editor 
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
@@ -110,7 +119,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
+* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Material Exchange Format (MXF) file specification.
+* [Snowmix](https://sourceforge.net/projects/snowmix/files/latest/download) - Live Video Mixer
 * [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs. 
 * [TuttleOFX](http://www.tuttleofx.org/) - TuttleOFX is an open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
@@ -135,6 +146,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds
 * [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming. [Documentation](http://liquidsoap.fm/index.html)
 * [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide. 
 
 ## Software-defined radio
