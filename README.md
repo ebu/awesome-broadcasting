@@ -135,6 +135,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds
 * [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming. [Documentation](http://liquidsoap.fm/index.html)
 * [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide. 
 
 ## Software-defined radio
