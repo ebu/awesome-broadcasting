@@ -26,7 +26,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 <!-- This page is available on http://ebu.io/opensource -->
 ## Audio over IP
 
-* [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP)
+* [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP).
 * [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 
@@ -34,7 +34,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Opus](http://www.opus-codec.org) - Opus is a totally open, royalty-free, highly versatile audio codec. 
 * [FLAC](https://www.xiph.org/flac/) - FLAC Free Lossless Audio Coding. Used by some broadcaster for audio exchange, storage.
-* [Lame](http://lame.sourceforge.net/) - Lame, high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!)
+* [Lame](http://lame.sourceforge.net/) - Lame, high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!).
 * [TwoLame](http://www.twolame.org/) - TwoLame, MPEG Audio Layer 2 (MP2) encoder.
 * [Turing Codec](http://turingcodec.org/) - Turing codec, an H.265/HEVC open source software encoder designed for fast and efficient video compression.
 
@@ -64,8 +64,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Graphics & Video Playout
 
 * [Aurena](https://github.com/thaytan/aurena) - Aurena is a network distributed media playback system.
-* [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006
-* [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer
+* [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
+* [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
 
 ## Hybrid Radio
 
@@ -81,7 +81,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
-* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools
+* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports.
 
 ## Metadata
@@ -97,7 +97,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
-* [Codem-isoboxer] (https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+* [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/dynamorse) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
@@ -126,16 +126,16 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo provides a convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
-* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files
+* [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
 ## Radio Production
 
-* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds
-* [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule)
-* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming. [Documentation](http://liquidsoap.fm/index.html)
+* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
+* [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule).
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)).
 * [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide. 
 
 ## Software-defined radio
