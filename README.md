@@ -8,7 +8,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Connected TVs](#connected-tvs)
   * [Distributed Media Processing](#distributed-media-processing)
   * [DVB & WiFi](#dvb--wifi)
-  * [Animation, Graphics & Video Playout](#graphics--video-playout)
+  * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
   * [Media Players](#media-players)
   * [Metadata](#metadata)
