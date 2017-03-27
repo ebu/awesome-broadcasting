@@ -111,7 +111,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Material Exchange Format (MXF) file specification.
-* [Snowmix](https://sourceforge.net/projects/snowmix/files/latest/download) - Live Video Mixer
+* [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer
 * [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs. 
 * [TuttleOFX](http://www.tuttleofx.org/) - TuttleOFX is an open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
