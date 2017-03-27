@@ -8,7 +8,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Connected TVs](#connected-tvs)
   * [Distributed Media Processing](#distributed-media-processing)
   * [DVB & WiFi](#dvb--wifi)
-  * [Graphics & Video Playout](#graphics--video-playout)
+  * [Animation, Graphics & Video Playout](#graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
   * [Media Players](#media-players)
   * [Metadata](#metadata)
@@ -61,9 +61,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
-## Graphics & Video Playout
+## Animation, Graphics & Video Playout
 
 * [Aurena](https://github.com/thaytan/aurena) - Aurena is a network distributed media playback system.
+* [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 * [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
 
@@ -97,7 +98,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder) - Based on FFmpeg/LibAV libraries to support various video and audio formats, avTranscoder provides the high level API to re-wrap or transcode media easily. It also provide bindings for any usage in Java or Python.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
-* [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 * [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/dynamorse) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
