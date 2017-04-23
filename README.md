@@ -74,7 +74,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
-* [RadioVIS Demo](https://github.com/bbcrd/RadioVisDemo) - RadioVIS client application in Python.
+* [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
 
 ## Media Players
 
