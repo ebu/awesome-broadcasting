@@ -27,6 +27,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Audio over IP
 
 * [butt](https://danielnoethen.de/) - butt (broadcast using this tool) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
+* [darkice](http://www.darkice.org/) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.
 * [Icecast](http://icecast.org/) - Icecast is a streaming media (audio/video) server which currently supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP).
 * [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
