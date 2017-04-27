@@ -32,7 +32,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Codecs
 
-* [Opus](http://www.opus-codec.org) - Opus is a totally open, royalty-free, highly versatile audio codec. 
+* [Opus](http://www.opus-codec.org) - Opus is a totally open, royalty-free, highly versatile audio codec.
+* [fdk-aac](https://sourceforge.net/projects/opencore-amr/) - Modified library of Fraunhofer AAC decoder and encoder (extracted from Android open source project).
 * [FLAC](https://www.xiph.org/flac/) - FLAC Free Lossless Audio Coding. Used by some broadcaster for audio exchange, storage.
 * [Lame](http://lame.sourceforge.net/) - Lame, high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!).
 * [TwoLame](http://www.twolame.org/) - TwoLame, MPEG Audio Layer 2 (MP2) encoder.
