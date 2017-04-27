@@ -71,6 +71,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Hybrid Radio
 
+* [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
 * [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
