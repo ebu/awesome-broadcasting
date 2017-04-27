@@ -30,6 +30,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP).
 * [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
+* [trx](http://www.pogo.org.uk/~mark/trx/) - trx is a simple toolset for broadcasting live audio from Linux. It sends and receives encoded audio over IP networks, via a soundcard or audio interface.
 
 ## Codecs
 
