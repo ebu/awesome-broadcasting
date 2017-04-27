@@ -89,6 +89,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports.
 
+## Media Recorders
+
+* [rotter](https://github.com/njh/rotter) - Recording of Transmission / Audio Logger for JACK.
+
 ## Metadata
 
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
