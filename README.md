@@ -76,6 +76,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
+* [RadioVIS Stomp Server](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
 
 ## Media Players
 
