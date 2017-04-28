@@ -85,6 +85,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [IDJC](http://idjc.sourceforge.net/) - Internet DJ Console is a GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
+* [mpg123](https://www.mpg123.de/) - Fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://www.mixxx.org/) - Mixxx is a free, open source DJ software.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
