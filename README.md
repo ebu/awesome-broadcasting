@@ -152,6 +152,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
 * [Gqrx SDR](http://gqrx.dk/) - An open source software defined radio receiver (SDR).
 * [ODR mmbTools](http://www.opendigitalradio.org) - Fork, continuation of CRC mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
+* [rtl-sdr](http://osmocom.org/projects/sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
 * [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
 
 ## Subtitling
