@@ -149,6 +149,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Software-defined radio
 
 * [CRC mmbTools](http://mmbtools.crc.ca/) - Original Tools for DAB digital radio multiplexing and software defined radio modulation.
+* [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
 * [ODR mmbTools](http://www.opendigitalradio.org) - Fork, continuation of CRC mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
 * [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
 
