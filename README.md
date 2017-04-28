@@ -82,6 +82,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Media Players
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [IDJC](http://idjc.sourceforge.net/) - Internet DJ Console is a GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
 * [Mixxx](https://www.mixxx.org/) - Mixxx is a free, open source DJ software.
