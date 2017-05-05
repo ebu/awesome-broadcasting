@@ -43,7 +43,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - dvbcss-synctiming is a system for measuring how accurately a TV or companion are synchronised.
 * [pydvbcss](https://github.com/BBC/pydvbcss) - pydvbcss is library implementing the DVB Companion Screens and Streams protocols for accurately synchronising media playback between TVs and companions.
 * [dial-discovery-ios](https://github.com/bbc/dial-discovery-ios) - dial-discovery-ios is a library for the discovery of devices via the DIAL protocol on the iOS platform.
-* [dvbcss-synckit-ios](https://github.com/bbc/dvbcss-synckit-ios) - A collection of iOS dynamic libraries for building media-based Companion screen applications that are synchronised frame-accurately to a TV.
+
 
 ## Connected TVs
 
