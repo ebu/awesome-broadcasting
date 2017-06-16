@@ -17,6 +17,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Quality Control](#quality-control)
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
+  * [Streaming](#streaming)
   * [Subtitling](#subtitling)
 * [Resources](#resources)
   * [Blogs](#blogs)
@@ -29,7 +30,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP).
 * [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
-* [IceCast](http://icecast.org/) - Open Source server software for streaming multimedia.
 
 ## Codecs
 
@@ -150,6 +150,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Software-defined radio
 
 * [ODR-mmbTools](https://www.opendigitalradio.org) - Fork, continuation of CRC-mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
+
+## Streaming
+
+* [IceCast](http://icecast.org/) - Open Source server software for streaming multimedia.
 
 ## Subtitling
 
