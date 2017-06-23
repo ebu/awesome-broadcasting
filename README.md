@@ -86,8 +86,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
+* [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
+* [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
+* [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
+* [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
