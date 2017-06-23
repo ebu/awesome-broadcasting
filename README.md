@@ -17,6 +17,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Quality Control](#quality-control)
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
+  * [Streaming](#streaming)
   * [Subtitling](#subtitling)
 * [Resources](#resources)
   * [Blogs](#blogs)
@@ -30,29 +31,31 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
 * [darkice](http://www.darkice.org/) - DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.
 * [Icecast](http://icecast.org/) - Icecast is a streaming media (audio/video) server which currently supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
-* [Kamailio](http://www.kamailio.org/) - Open SIP server. Commonly used SIP server for Audio contribution over IP using SIP (EBU ACIP).
-* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
+* [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
+* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
 * [trx](http://www.pogo.org.uk/~mark/trx/) - trx is a simple toolset for broadcasting live audio from Linux. It sends and receives encoded audio over IP networks, via a soundcard or audio interface.
 
 ## Codecs
 
-* [Opus](http://www.opus-codec.org) - Opus is a totally open, royalty-free, highly versatile audio codec. 
-* [FLAC](https://www.xiph.org/flac/) - FLAC Free Lossless Audio Coding. Used by some broadcaster for audio exchange, storage.
-* [Lame](http://lame.sourceforge.net/) - Lame, high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!).
-* [TwoLame](http://www.twolame.org/) - TwoLame, MPEG Audio Layer 2 (MP2) encoder.
-* [Turing Codec](http://turingcodec.org/) - Turing codec, an H.265/HEVC open source software encoder designed for fast and efficient video compression.
+* [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
+* [Lame](http://lame.sourceforge.net/) - A high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!).
+* [Opus](http://www.opus-codec.org) - A totally open, royalty-free, highly versatile audio codec.
+* [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
+* [TwoLame](http://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
 
 ## Companion Screens
 
-* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - dvbcss-synctiming is a system for measuring how accurately a TV or companion are synchronised.
-* [pydvbcss](https://github.com/BBC/pydvbcss) - pydvbcss is library implementing the DVB Companion Screens and Streams protocols for accurately synchronising media playback between TVs and companions.
+* [dial-discovery-ios](https://github.com/bbc/dial-discovery-ios) - A library for the discovery of devices via the DIAL protocol on the iOS platform.
+* [dvbcss-synckit-ios](https://github.com/bbc/dvbcss-synckit-ios) - A collection of iOS dynamic libraries for building media-based companion screen applications that are synchronised frame-accurately to a TV.
+* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - A system for measuring how accurately a TV or companion are synchronised.
+* [pydvbcss](https://github.com/BBC/pydvbcss) - A library implementing the DVB Companion Screens and Streams protocols for accurately synchronising media playback between TVs and companions.
 
 ## Connected TVs
 
 * [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - An HbbTV application which can playback media from a URL. Conforms to HbbTV and W3C specifications.
-* [TAL](http://fmtvp.github.io/tal) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
+* [TAL](http://fmtvp.github.io/tal) - An open source library for building applications for Connected TV devices.
 
 ## Distributed Media Processing
 
@@ -61,18 +64,18 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## DVB & WiFi
 
 * [DTT 2 IP](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
-* [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - DVB Inspector is an open-source DVB analyzer.
-* [DVBlast](http://www.videolan.org/projects/dvblast.html) - DVBlast is a simple and powerful MPEG-2/TS demux and streaming application.
-* [dvbshout](https://github.com/njh/dvbshout) - Send DVB audio to a shoutcast server or a RTP stream.
-* [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
+* [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
+* [DVBlast](http://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
+* [dvbshout](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
+* [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
 ## Animation, Graphics & Video Playout
 
-* [Aurena](https://github.com/thaytan/aurena) - Aurena is a network distributed media playback system.
+* [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
 * [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
-* [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
+* [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
 
 ## Hybrid Radio
@@ -80,28 +83,32 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
 * [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
-* [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
+* [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
 * [RadioVIS Stomp Server](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
 
 ## Media Players
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
+* [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
+* [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
+* [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
+* [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
-* [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
-* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports.
+* [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
 
 * [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
-* [EBUCore](https://github.com/ebu/ebucore) - the Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
+* [EBUCore](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [jebu-core](https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
 * [Ledger](https://github.com/Streampunk/ledger) - Node.js implementation of the NMOS registration and discovery specifications.
 * [MAJ API](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
-* [TV-Anytime](https://github.com/ebu/tvanytime) - The tv-anytime schema github maintenance page.
+* [TV-Anytime](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
 
 ## Multimedia content processing
 
@@ -109,8 +116,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 * [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse](https://github.com/Streampunk/dynamorse) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
-* [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [FFmbc](https://code.google.com/p/ffmbc/) - FFmpeg customized for broadcast and professional usage.
+* [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
@@ -122,12 +129,12 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
 * [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
-* [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Material Exchange Format (MXF) file specification.
+* [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
-* [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs. 
-* [TuttleOFX](http://www.tuttleofx.org/) - TuttleOFX is an open source image processing framework based on OpenFX plugin standard.
-* [UPipe](https://github.com/cmassiot/upipe/) - Upipe is primarily designed to be the core of a multimedia player, transcoder or streamer.
- 
+* [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
+* [TuttleOFX](http://www.tuttleofx.org/) - An open source image processing framework based on OpenFX plugin standard.
+* [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
+
 ## Network & Storage Testing
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached storage, originally assumed to be used for the streaming of professional media.
@@ -135,34 +142,43 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Quality Control
 
-* [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - BeaqleJS provides a framework to create browser based listening tests for subjective audio quality assessment.
+* [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo provides a convenient unified display of the most relevant technical and tag data for video and audio files.
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+* [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Material Exchange Format (MXF) file specification.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
+* [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
 ## Radio Production
 
-* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
 * [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule).
+* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)).
-* [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide. 
+* [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## Software-defined radio
 
-* [CRC mmbTools](http://mmbtools.crc.ca/) - Original Tools for DAB digital radio multiplexing and software defined radio modulation.
-* [ODR mmbTools](http://www.opendigitalradio.org) - Fork, continuation of CRC mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
+* [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
+* [Gqrx SDR](http://gqrx.dk/) - An open source software defined radio receiver (SDR).
+* [ODR-mmbTools](https://www.opendigitalradio.org) - Fork, continuation of CRC-mmbTools. Adding new features for 24/24 365/365 live operation, DAB+, associated data (slideshow, text), distributed infrastructure, SFN.
+* [rtl-sdr](http://osmocom.org/projects/sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
+* [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
+
+## Streaming
+
+* [IceCast](http://icecast.org/) - Open Source server software for streaming multimedia.
 
 ## Subtitling
 
 * [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
-* [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles. 
 * [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - A set of components for generating, testing and distributing subtitle documents in the [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) format.
+* [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles.
 * [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered.
 * [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
