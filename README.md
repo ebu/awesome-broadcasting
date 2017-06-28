@@ -141,7 +141,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
-* [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Material Exchange Format (MXF) file specification.
+* [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
