@@ -50,7 +50,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - An HbbTV application which can playback media from a URL. Conforms to HbbTV and W3C specifications.
-* [TAL](http://fmtvp.github.io/tal) - An open source library for building applications for Connected TV devices.
+* [TAL](http://bbc.github.io/tal/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
 ## Distributed Media Processing
 
