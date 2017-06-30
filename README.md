@@ -38,9 +38,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Codecs
 
-* [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
-* [Lame](http://lame.sourceforge.net/) - A high quality MPEG Audio Layer III (MP3) encoder. (Warning, MP3 is not royalty free!).
+* [Lame](http://lame.sourceforge.net/) - A high quality MPEG Audio Layer III (MP3) encoder.
+* [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [Opus](http://www.opus-codec.org) - A totally open, royalty-free, highly versatile audio codec.
 * [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
 * [TwoLame](http://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
