@@ -100,7 +100,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player with some reactive programming inside, supporting MPEG-DASH and SmoothStreaming transports.
-* [VLC](http://www.vlc.org) - Simple, fast and powerful media player. 
+* [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
 
@@ -138,6 +138,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
+* [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
