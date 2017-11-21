@@ -201,6 +201,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
 * [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
 * [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community.
+* [IRT Lab](https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
 * [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 * [Youtube Engineering and Developers Blog](http://youtube-eng.blogspot.com) - What's happening with engineering and developers at YouTube.
 
