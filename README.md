@@ -124,7 +124,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
-* [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence Detector.
+* [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
