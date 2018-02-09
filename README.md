@@ -172,6 +172,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)).
 * [OpenBroadcaster](https://github.com/openbroadcaster/observer) Open source broadcast automation server. [Player here](https://github.com/openbroadcaster/obplayer).
+* [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## Software-defined radio
