@@ -201,7 +201,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ## Blogs
 
-* [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs
+* [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
 * [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
 * [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
 * [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community.
