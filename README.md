@@ -79,6 +79,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
+* [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
 ## Hybrid Radio
 
