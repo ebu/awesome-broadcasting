@@ -112,6 +112,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [jebu-core](https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
 * [Ledger](https://github.com/Streampunk/ledger) - Node.js implementation of the NMOS registration and discovery specifications.
 * [MAJ API](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
+* [NMOS](https://github.com/sony/nmos-cpp) - An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05).
+* [SDPoker](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 * [TV-Anytime](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
 
 ## Monitoring & Quality Control
