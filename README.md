@@ -207,7 +207,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Video Production
 
-* [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) - Web browser and standalone Electron app prompter.
+* [Teleprompter](https://imaginary.tech/teleprompter/) - Web browser and standalone Electron app prompter.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
