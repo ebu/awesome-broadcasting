@@ -2,7 +2,6 @@
 A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
-  * [Audio over IP & Streaming](#audio-over-ip--streaming)
   * [Codecs](#codecs)
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
@@ -10,6 +9,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [DVB & WiFi](#dvb--wifi)
   * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
+  * [LiveIP](#LiveIP)
   * [Media Players](#media-players)
   * [Metadata](#metadata)
   * [Monitoring & Quality Control](#monitoring--quality-control)
@@ -25,17 +25,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Contributing](#contributing)
 
 <!-- This page is available on http://ebu.io/opensource -->
-## Audio over IP & Streaming
-
-* [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
-* [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
-* [DarkIce](http://www.darkice.org/) - A live audio streamer that records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.
-* [Icecast](http://icecast.org/) - A streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
-* [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
-* [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
-* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
-* [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
-
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
@@ -90,6 +79,18 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
 * [RadioVIS Stomp Server](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
+
+## LiveIP
+*Audio/Video over IP & Streaming*
+
+* [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
+* [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
+* [DarkIce](http://www.darkice.org/) - A live audio streamer that records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.
+* [Icecast](http://icecast.org/) - A streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
+* [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
+* [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
+* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE. Used in some contribution equipment (dual licensing).
+* [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
 
 ## Media Players
 
