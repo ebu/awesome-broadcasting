@@ -208,7 +208,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Video Production
 
-* [Teleprompter](https://imaginary.tech/teleprompter/) - Web browser and standalone Electron app prompter.
+* [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+* [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) - Web browser and standalone Electron app prompter.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
