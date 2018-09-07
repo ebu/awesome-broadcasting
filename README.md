@@ -9,7 +9,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [DVB & WiFi](#dvb--wifi)
   * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
-  * [LiveIP](#LiveIP)
+  * [LiveIP](#liveip)
   * [Media Players](#media-players)
   * [Metadata](#metadata)
   * [Monitoring & Quality Control](#monitoring--quality-control)
