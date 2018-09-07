@@ -18,6 +18,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Radio Production](#radio-production)
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
+  * [Video Production](#video-production)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
@@ -203,6 +204,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - A set of modules for converting subtitle formats. Main target is the conversion of EBU STL and EBU-TT subtitle files. Alpha release.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - A collection of related tools that provide support for or make use of the W3C Timed Text Markup Language (TTML).
+
+## Video Production
+
+* [Teleprompter](https://imaginary.tech/teleprompter/) - Web browser and standalone Electron app prompter.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
