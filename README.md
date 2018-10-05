@@ -121,6 +121,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Monitoring & Quality Control
 
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
+* [Ebumeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Level metering for JACK, according to the [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness recommendation - [documentation](http://kokkinizita.linuxaudio.org/linuxaudio/ebumeter-doc/quickguide.html).
 * [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK.
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical Audio meters for JACK with the correct ballistics for both the VU and the PPMs (compared to Meterbridge).
