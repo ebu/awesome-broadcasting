@@ -121,9 +121,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Monitoring & Quality Control
 
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
+* [Ebumeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Level metering for JACK, according to the [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness recommendation - [documentation](http://kokkinizita.linuxaudio.org/linuxaudio/ebumeter-doc/quickguide.html).
 * [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK.
-* [Ebumeter](http://kokkinizita.linuxaudio.org/linuxaudio/ebumeter-doc/quickguide.html) - A level metering according to the EBU R-128 recommendation for JACK. [Download](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html)
+* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical Audio meters for JACK with the correct ballistics for both the VU and the PPMs (compared to Meterbridge).
 * [LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to read, generate and trigger against Linear Timecode (LTC) and convert to MIDI Timecode (MTC) with JACK and to/from standalone files.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
