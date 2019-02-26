@@ -169,6 +169,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 * [VideoContext](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL media processing and sequencing library for creating interactive and responsive videos on the web.
 * [Voctomix](https://github.com/voc/voctomix) - Customizable conference recording and mixing software based on Python and GStreamer with streaming capabilities and Core/GUI separation.
+* [libbw64](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library
 
 ## Network & Storage Testing
 
