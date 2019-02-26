@@ -117,6 +117,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [NMOS](https://github.com/sony/nmos-cpp) - An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05).
 * [SDPoker](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 * [TV-Anytime](https://github.com/ebu/tvanytime) - The TV-Anytime schema github maintenance page.
+* [libadm](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library
 
 ## Monitoring & Quality Control
 
