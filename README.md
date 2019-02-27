@@ -155,6 +155,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
+* [libbw64](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 * [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
@@ -169,7 +170,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 * [VideoContext](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL media processing and sequencing library for creating interactive and responsive videos on the web.
 * [Voctomix](https://github.com/voc/voctomix) - Customizable conference recording and mixing software based on Python and GStreamer with streaming capabilities and Core/GUI separation.
-* [libbw64](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library
 
 ## Network & Storage Testing
 
