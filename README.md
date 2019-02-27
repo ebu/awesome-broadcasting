@@ -113,6 +113,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [EBUCore](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [AMWA IS-04 and IS-05](https://github.com/bbc/nmos-joint-ri) - Python implementation of the AMWA IS-04 NMOS Registration and Discovery Specification and AMWA IS-05 NMOS Device Connection Management Specification.
 * [jebu-core](https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
+* [libadm](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 * [MAJ API](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 * [NMOS](https://github.com/sony/nmos-cpp) - An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05).
 * [SDPoker](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
@@ -154,6 +155,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
+* [libbw64](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 * [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
