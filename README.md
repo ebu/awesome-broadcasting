@@ -130,6 +130,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+* [Pi Audio Monitor](https://github.com/martim01/pam) - Audio Monitoring Software designed for (but not limited to) a Raspberry Pi with touchscreen, including S/PDIF, AES3, AES67, Livewire and Ravenna support.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
