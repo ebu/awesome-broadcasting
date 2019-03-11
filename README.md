@@ -71,6 +71,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
 * [Macadam](https://github.com/Streampunk/macadam) - Node.js bindings for Blackmagic devices, with support for key and fill graphics created with HTML/CSS (via [Electron](https://electronjs.org/)) and with SVG (via [Sevruga](https://github.com/Streampunk/sevruga)).
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+* [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - An automation system for MOS-driven news casts, with tens of MIT-licensed libraries for device control and playback.
 
 ## Hybrid Radio
 
