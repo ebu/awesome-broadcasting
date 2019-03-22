@@ -220,6 +220,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - QLC+ is cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc.
 * [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) - Web browser and standalone Electron app prompter.
+* [MIDIMonster](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
