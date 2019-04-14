@@ -6,6 +6,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
   * [Distributed Media Processing](#distributed-media-processing)
+  * [Documentation](#documentation)
   * [DVB & WiFi](#dvb--wifi)
   * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
@@ -50,6 +51,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Distributed Media Processing
 
 * [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
+
+## Documentation
+
+* [Kronekeeper](https://github.com/nick-prater/kronekeeper) - A web based application for recording and managing Krone frame records.
 
 ## DVB & WiFi
 
