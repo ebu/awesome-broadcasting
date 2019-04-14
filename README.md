@@ -25,7 +25,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Websites](#websites)
 * [Contributing](#contributing)
 
-<!-- This page is available on http://ebu.io/opensource -->
+<!-- This page is available on https://ebu.io/opensource -->
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
@@ -44,7 +44,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Connected TVs
 
-* [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
+* [Cross-Platform Authentication](https://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - An HbbTV and W3C specifications compliant application that can playback media from a URL.
 * [TAL](http://bbc.github.io/tal/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
@@ -96,7 +96,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Icecast](http://icecast.org/) - Streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
-* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
+* [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
 
 ## Media Players
@@ -165,7 +165,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Libebur128](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
-* [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
+* [MXFLib](https://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
 * [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
@@ -179,7 +179,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Network & Storage Testing
 
-* [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached  (professional media) storage.
+* [BBC Media Storage Meter](https://sourceforge.net/projects/msmeter/) - An application for the testing of network attached  (professional media) storage.
 * [Fio](https://github.com/axboe/fio) - Flexible I/O Tester
 * [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
@@ -232,14 +232,14 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Blogs
 
 * [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
-* [BBC R&D](http://www.bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
+* [BBC R&D](https://www.bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
 * [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
 * [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community.
 * [IRT Lab](https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
 * [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
-* [Youtube Engineering and Developers Blog](https://youtube-eng.blogspot.com) - What's happening with engineering and developers at YouTube.
+* [Youtube Engineering and Developers Blog](https://youtube-eng.blogspot.com/) - What's happening with engineering and developers at YouTube.
 
-<!-- This page is available on http://ebu.io/opensource -->
+<!-- This page is available on https://ebu.io/opensource -->
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
