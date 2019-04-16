@@ -38,7 +38,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Companion Screens
 
 * [dial-discovery-ios](https://github.com/bbc/dial-discovery-ios) - A library for the discovery of devices via the DIAL protocol on the iOS platform.
-* [dvbcss-synckit-ios](https://github.com/bbc/dvbcss-synckit-ios) - A collection of iOS dynamic libraries for building media-based companion screen applications that are synchronised frame-accurately to a TV.
+* [dvbcss-synckit-ios](https://github.com/bbc/dvbcss-synckit-ios) - iOS libraries for companion screen applications that are synchronised frame-accurately to a TV.
 * [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - A system for measuring how accurately a TV or companion are synchronised.
 * [pydvbcss](https://github.com/BBC/pydvbcss) - A library implementing the DVB Companion Screens and Streams protocols for accurately synchronising media playback between TVs and companions.
 
