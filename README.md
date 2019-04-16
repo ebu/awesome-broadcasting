@@ -71,7 +71,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Animation, Graphics & Video Playout
 
 * [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
-* [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
+* [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
 * [Macadam](https://github.com/Streampunk/macadam) - Node.js bindings for Blackmagic devices, with support for key and fill graphics created with HTML/CSS (via [Electron](https://electronjs.org/)) and with SVG (via [Sevruga](https://github.com/Streampunk/sevruga)).
