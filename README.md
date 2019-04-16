@@ -239,11 +239,6 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 * [Youtube Engineering and Developers Blog](http://youtube-eng.blogspot.com) - What's happening with engineering and developers at YouTube.
 
-## Websites
-*Useful broadcasting related websites.*
-
-* [EBU.io](http://www.ebu.io) - A platform for agile collaboration.
-
 <!-- This page is available on http://ebu.io/opensource -->
 
 # Contributing
