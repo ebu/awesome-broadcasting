@@ -92,7 +92,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
 * [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
-* [DarkIce](http://www.darkice.org/) - Live audio streamer that records and encodes from an audio interface and sends it to a streaming server.
+* [DarkIce](http://www.darkice.org/) - Live audio streamer that records and encodes from an audio interface and sends to a streaming server.
 * [Icecast](http://icecast.org/) - A streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
