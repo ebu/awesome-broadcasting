@@ -25,7 +25,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Websites](#websites)
 * [Contributing](#contributing)
 
-<!-- This page is available on http://ebu.io/opensource -->
+<!-- This page is available on https://ebu.io/opensource -->
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
@@ -44,7 +44,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Connected TVs
 
-* [Cross-Platform Authentication](http://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
+* [Cross-Platform Authentication](https://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - An HbbTV and W3C specifications compliant application that can playback media from a URL.
 * [TAL](http://bbc.github.io/tal/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
@@ -73,15 +73,15 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
 * [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
-* [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+* [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 
 ## Hybrid Radio
 
 * [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
-* [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - Platform to manage Hybrid Radio services, e.g. RadioVIS, RadioEPG and Service Following.
+* [RadioDNS Manager](https://github.com/ebu/radiodns-manager) - Platform to manage Hybrid Radio services, e.g. RadioVIS, RadioEPG and Service Following.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
@@ -97,29 +97,29 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - A project founded in Sweden to publish Open Source software for professional radio broadcasts.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
-* [PJSIP](http://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
+* [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
 
 ## Media Players
 
 * [Dash.js](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
-* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
+* [GPAC](https://gpac.wp.imt.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
-* [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
+* [Peaks.js](https://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
 
-* [BMXlib](http://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
+* [BMXlib](https://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 * [EBUCore](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [AMWA IS-04 and IS-05](https://github.com/bbc/nmos-joint-ri) - NMOS Registration & Discovery and Device Connection Management in Python.
-* [jebu-core](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
+* [jebu-core](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
 * [libadm](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 * [MAJ API](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 * [NMOS](https://github.com/sony/nmos-cpp) - An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05).
@@ -133,16 +133,16 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
 * [LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
-* [MediaConch](https://mediaarea.net/MediaConch/) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
+* [MediaConch](https://mediaarea.net/MediaConch) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
-* [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+* [MXF Inspect](https://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Pi Audio Monitor](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 * [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [QCTools](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
-* [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
+* [Sonic Visualiser](https://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
@@ -163,36 +163,36 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
 * [libbw64](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
-* [Libebur128](http://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
+* [Libebur128](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
-* [MXFLib](http://sourceforge.net/projects/mxflib) - A multi-platform C++ library for reading and writing MXF files.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - Software for live streaming and screen recording.
+* [MXFLib](https://sourceforge.net/projects/mxflib/) - A multi-platform C++ library for reading and writing MXF files.
+* [OBS-Studio](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
 * [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 * [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
-* [TuttleOFX](http://www.tuttleofx.org/) - An open source image processing framework based on OpenFX plugin standard.
+* [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 * [VideoContext](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
 * [Voctomix](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 
 ## Network & Storage Testing
 
-* [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - An application for the testing of network attached  (professional media) storage.
+* [BBC Media Storage Meter](https://sourceforge.net/projects/msmeter/) - An application for the testing of network attached  (professional media) storage.
 * [Fio](https://github.com/axboe/fio) - Flexible I/O Tester
 * [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
 
 ## Radio Production
 
-* [Airtime](https://www.sourcefabric.org/en/airtime/) - Radio management application for remote broadcast automation (via web-based schedule).
+* [Airtime](https://github.com/sourcefabric/airtime) - Radio management application for remote broadcast automation (via web-based schedule).
 * [Ardour](https://ardour.org/) - A digital audio workstation.
-* [Audacity](http://audacity.sourceforge.net/) - Cross-platform software for recording and editing sounds.
-* [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite.
+* [Audacity](https://www.audacityteam.org/) - Cross-platform software for recording and editing sounds.
+* [AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite.
 * [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
-* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)).
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide. 
@@ -202,7 +202,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
 * [Gqrx SDR](http://gqrx.dk/) - An open source software defined radio receiver (SDR).
 * [ODR-mmbTools](https://www.opendigitalradio.org) - Fork of CRC-mmbTools. Adds live, DAB+, associated data, distributed infrastructure, SFN.
-* [rtl-sdr](http://osmocom.org/projects/sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
+* [rtl-sdr](http://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
 * [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
 
 ## Subtitling
@@ -214,7 +214,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 * [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
-* [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
+* [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
@@ -233,14 +233,14 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Blogs
 
 * [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
-* [BBC R&D](http://bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
-* [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
-* [Canal+](http://canalplus.github.io/) - CANAL+ Open Source Community.
+* [BBC R&D](https://www.bbc.co.uk/rd) - BBC Research and Development. Checkout the weekly notes.
+* [3D CineCast](http://3dcinecast.blogspot.com/) - A curation about new media technologies.
+* [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 * [IRT Lab](https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
 * [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
-* [Youtube Engineering and Developers Blog](http://youtube-eng.blogspot.com) - What's happening with engineering and developers at YouTube.
+* [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - What's happening with engineering and developers at YouTube.
 
-<!-- This page is available on http://ebu.io/opensource -->
+<!-- This page is available on https://ebu.io/opensource -->
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
