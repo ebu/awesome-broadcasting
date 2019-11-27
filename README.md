@@ -113,6 +113,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Peaks.js](https://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
+* [Python Internet Radio](https://github.com/jakubthedeveloper/PythonInternetRadio) - Internet radio stations player for Linux and Raspbian with Web interface and support for bluetooth audio devices.
 
 ## Metadata
 
