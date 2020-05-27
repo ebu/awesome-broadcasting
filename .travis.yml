@@ -6,7 +6,8 @@ matrix:
     - rvm: 2.2
       env:
       - TASK='awesome_bot'
-    - env:
+    - python: 3.7
+      env:
       - TASK='codespell'
 
 before_script:
