@@ -29,9 +29,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
-* [Lame](http://lame.sourceforge.net/) - A high quality MPEG Audio Layer III (MP3) encoder.
+* [Lame](https://lame.sourceforge.io/) - A high quality MPEG Audio Layer III (MP3) encoder.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
-* [Opus](http://www.opus-codec.org) - A totally open, royalty-free, highly versatile audio codec.
+* [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
 * [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
 * [TwoLame](http://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
 
@@ -74,7 +74,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [ffplayout](https://github.com/ffplayout/ffplayout-engine) - Python and FFmpeg based playout from folder or playlists.
-* [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
+* [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
@@ -95,7 +95,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
 * [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
 * [DarkIce](http://www.darkice.org/) - Live audio streamer that records and encodes from an audio interface and sends to a streaming server.
-* [Icecast](http://icecast.org/) - Streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3.
+* [Icecast](https://icecast.org/) - Streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - A project founded in Sweden to publish Open Source software for professional radio broadcasts.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
@@ -205,7 +205,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Software-defined radio
 
 * [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
-* [Gqrx SDR](http://gqrx.dk/) - An open source software defined radio receiver (SDR).
+* [Gqrx SDR](https://gqrx.dk/) - An open source software defined radio receiver (SDR).
 * [ODR-mmbTools](https://www.opendigitalradio.org) - Fork of CRC-mmbTools. Adds live, DAB+, associated data, distributed infrastructure, SFN.
 * [rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
 * [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
@@ -230,7 +230,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
-* [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) - Web browser and standalone Electron app prompter.
+* [Teleprompter](https://github.com/ImaginarySense/Imaginary-Teleprompter) - Web browser and standalone Electron app prompter.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
