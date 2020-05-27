@@ -1,12 +1,12 @@
-language: ruby
-
 matrix:
   fast_finish: true
   include:
-    - rvm: 2.2
+    - language: ruby
+      rvm: 2.2
       env:
       - TASK='awesome_bot'
-    - python: 3.7
+    - language: python
+      python: 3.7
       env:
       - TASK='codespell'
 
