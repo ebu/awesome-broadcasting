@@ -33,7 +33,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
 * [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
-* [TwoLame](http://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
+* [TwoLame](https://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
 
 ## Companion Screens
 
@@ -196,7 +196,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Ardour](https://ardour.org/) - A digital audio workstation.
 * [Audacity](https://www.audacityteam.org/) - Cross-platform software for recording and editing sounds.
 * [AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite.
-* [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
+* [LibreTime](https://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
