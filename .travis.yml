@@ -6,13 +6,12 @@ matrix:
     - rvm: 2.2
       env:
       - TASK='awesome_bot'
-    - python: 3.8
-      env:
+    - env:
       - TASK='codespell'
 
 before_script:
   - if [ "$TASK" = "awesome_bot" ]; then gem install awesome_bot; fi
-  - if [ "$TASK" = "codespell" ]; then pip install --user git+https://github.com/codespell-project/codespell.git; fi
+  - if [ "$TASK" = "codespell" ]; then pip3 install --user git+https://github.com/codespell-project/codespell.git; fi
 script:
   - if [ "$TASK" = "awesome_bot" ]; then awesome_bot README.md --skip-save-results --white-list ebu.io/opensource,github.com/ebu/dash.js,www.kamailio.org/,techblog.netflix.com/; fi
   - if [ "$TASK" = "codespell" ]; then codespell --check-filenames --check-hidden --quiet 2 --regex "[a-zA-Z0-9][\\-'a-zA-Z0-9]+[a-zA-Z0-9]" $(eval "find ./ -type f | xargs"); fi
