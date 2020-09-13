@@ -28,6 +28,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 <!-- This page is available on https://ebu.io/opensource -->
 ## Clocks & Studio Screens
+* [OnAirScreen](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
