@@ -29,6 +29,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 <!-- This page is available on https://ebu.io/opensource -->
 ## Clocks & Studio Screens
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+* [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
 ## Codecs
 
