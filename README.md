@@ -98,6 +98,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Icecast](https://icecast.org/) - Streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - A project founded in Sweden to publish Open Source software for professional radio broadcasts.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
+* [nmos-cpp](https://github.com/sony/nmos-cpp) - an implementation of the AMWA [Networked Media Open Specifications](https://amwa-tv.github.io/nmos) in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
+* [nmos-js](https://github.com/sony/nmos-js) - a simple browser-based [NMOS](https://amwa-tv.github.io/nmos) Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 * [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
