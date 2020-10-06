@@ -92,6 +92,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## LiveIP
 *Audio/Video over IP & Streaming*
 
+* [AMWA NMOS Testing Tool](https://amwa-tv.github.io/nmos-testing) - Automated test suites for the AMWA NMOS family of specifications, as used in the [JT-NM Tested](https://jt-nm.org/jt-nm_tested/) programme
 * [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
 * [Cool Mic](https://coolmic.net/) - Android audio livestreaming Icecast source client app.
 * [DarkIce](http://www.darkice.org/) - Live audio streamer that records and encodes from an audio interface and sends to a streaming server.
