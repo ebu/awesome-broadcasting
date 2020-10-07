@@ -2,6 +2,7 @@
 A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
+  * [Clocks & Studio Screens](#clocks--studio-screens)
   * [Codecs](#codecs)
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
@@ -26,6 +27,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Contributing](#contributing)
 
 <!-- This page is available on https://ebu.io/opensource -->
+## Clocks & Studio Screens
+* [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
+* [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
@@ -228,7 +233,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MIDIMonster](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
-* [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [Teleprompter](https://github.com/ImaginarySense/Imaginary-Teleprompter) - Web browser and standalone Electron app prompter.
 
