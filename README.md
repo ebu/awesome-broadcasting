@@ -21,6 +21,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Software-defined radio](#software-defined-radio)
   * [Subtitling](#subtitling)
   * [Video Production](#video-production)
+  * [Streaming](#streaming)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
@@ -241,6 +242,10 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [Teleprompter](https://github.com/ImaginarySense/Imaginary-Teleprompter) - Web browser and standalone Electron app prompter.
+
+## Streaming
+
+* [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (https://owncast.online/)
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
