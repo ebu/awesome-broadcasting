@@ -84,6 +84,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [ffplayout](https://github.com/ffplayout/ffplayout-engine) - Python and FFmpeg based playout from folder or playlists.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
+* [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
