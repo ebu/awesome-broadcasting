@@ -208,6 +208,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [Easy-NMOS](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
 * [nmos-cpp](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
 * [nmos-js](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
+* [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
 
 ## Radio Production
 
