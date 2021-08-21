@@ -59,7 +59,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Control Systems
 
-* [Lawo EmberPlus](https://github.com/Lawo/ember-plus) - Ember Plus - open protol for interfacing to / from broadcast control systems.
+* [Lawo EmberPlus](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
 
 ## Distributed Media Processing
 
