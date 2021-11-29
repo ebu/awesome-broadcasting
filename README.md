@@ -249,6 +249,10 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
+## Transcoding/Encoding
+
+* [SVT Encore](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg
+
 ## Video Production
 
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
