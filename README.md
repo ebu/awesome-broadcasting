@@ -256,7 +256,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [TallyArbiter](http://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
-* [Teleprompter](https://github.com/Cuperino/QPrompt) - Convergent teleprompter software that integrates with your setup. Works with studio teleprompters, tablet teleprompters, webcams, and phones.
+* [QPrompt teleprompter app](https://github.com/Cuperino/QPrompt) - Convergent teleprompter software that integrates with your setup. Works with studio teleprompters, tablet teleprompters, webcams, and phones.
 
 ## Streaming
 
