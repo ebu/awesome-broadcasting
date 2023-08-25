@@ -195,7 +195,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 * [SoX](https://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
-* [SVT Encore](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
+* [SVT Encore](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 * [VideoContext](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
@@ -263,7 +263,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Streaming
 
-* [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (https://owncast.online/)
+* [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming platform (https://owncast.online/)
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
