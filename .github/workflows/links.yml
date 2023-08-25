@@ -21,4 +21,4 @@ jobs:
     - name: Install gem
       run: gem install awesome_bot
     - name: Check links
-      run: awesome_bot README.md --skip-save-results --white-list ebu.io/opensource,github.com/ebu/dash.js,www.kamailio.org/,techblog.netflix.com/
+      run: awesome_bot README.md --skip-save-results --white-list ebu.io/opensource,github.com/ebu/dash.js,www.kamailio.org/,netflixtechblog.com/
