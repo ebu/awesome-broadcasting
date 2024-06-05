@@ -127,7 +127,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GPAC](https://gpac.wp.imt.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
-* [Media4DPlayer](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
+* [Media4DPlayer]() - HTML5 player focused on accessibility.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
