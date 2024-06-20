@@ -1,0 +1,39 @@
+name: Continous Integration
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  awesome_bot:
+    name: Check for issues via awesome_bot
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.0
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Install gem
+      run: gem install awesome_bot
+    - name: Check links
+      run: awesome_bot README.md --skip-save-results --white-list ebu.io/opensource,github.com/ebu/dash.js,www.kamailio.org/,netflixtechblog.com/
+
+  # GitHub Action to automate the identification of common misspellings in text files.
+  # https://github.com/codespell-project/actions-codespell
+  # https://github.com/codespell-project/codespell
+  codespell:
+    name: Check for spelling errors
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+      - uses: codespell-project/actions-codespell@master
+        with:
+          check_filenames: true
+          skip: "./.git"
