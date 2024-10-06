@@ -234,6 +234,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [gPodder](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
 * [Podlove Publisher](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher)).
 * [Podlove Web Player](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player)).
+* [Ultraschall](https://github.com/Ultraschall/ultraschall-installer) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
 
 ## Radio Production
 
