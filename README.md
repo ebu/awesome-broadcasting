@@ -99,6 +99,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 * [SPX - Graphics Controller](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
+* [StreamShapers - Ferryman](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
 * [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## Hybrid Radio
