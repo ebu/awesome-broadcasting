@@ -36,6 +36,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [PiClock Advanced](https://github.com/ael/piclock_advanced) - Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
 * [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
+* [OATIS](https://github.com/jamiehull/OATIS) - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
 
 ## Codecs
 
