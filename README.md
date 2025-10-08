@@ -227,6 +227,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [DELTACAST IP Virtual Card NMOS samples](https://github.com/deltacasttv/nmos-ipvc-samples) - A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through [nmos-cpp](https://github.com/sony/nmos-cpp).
 * [Easy-NMOS](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
 * [nmos-cpp](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
+* [nmos-device-control-mock](https://github.com/AMWA-TV/nmos-device-control-mock) - A mock device implementation of the NMOS Control & Monitoring suite (IS-12, BCP-008-01, BCP-008-02), written in Typescript and running on the NodeJS stack.
 * [nmos-js](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 * [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
 * [NVIDIA NMOS Library](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
