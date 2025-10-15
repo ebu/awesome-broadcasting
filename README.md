@@ -60,7 +60,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Control Systems
 
 * [BUG](http://bbc.github.io/bug) - Broadcast Universal Gateway - Control a wide range of broadcast and network equipment from your browser.
-* [Bitfocus Companion](https://bitfocus.io/companion) - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an increasing amount of broadcast equipment. 
+* [Bitfocus Companion](https://github.com/bitfocus/companion) - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections). 
 * [Lawo EmberPlus](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
 * [MIDIMonster](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 
