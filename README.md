@@ -44,7 +44,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Lame](https://lame.sourceforge.io/) - A high quality MPEG Audio Layer III (MP3) encoder.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
-* [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
+* [Turing Codec](https://github.com/bbc/turingcodec) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
 * [TwoLame](https://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
 
 ## Companion Screens
