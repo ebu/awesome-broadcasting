@@ -44,7 +44,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Lame](https://lame.sourceforge.io/) - A high quality MPEG Audio Layer III (MP3) encoder.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
-* [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
+* [Turing Codec](https://github.com/bbc/turingcodec) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
 * [TwoLame](https://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
 
 ## Companion Screens
@@ -56,7 +56,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Connected TVs
 
-* [CPA Authorization Provider](https://github.com/ebu/cpa-auth-provider) - Reference implementation for linking media devices with online identities ([related repos](https://tech.ebu.ch/code/cpa) here).
+* [CPA Authorization Provider](https://github.com/ebu/cpa-auth-provider) - Reference implementation for linking media devices with online identities ([related repos](https://tech.ebu.ch/code) here).
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - An HbbTV and W3C specifications compliant application that can playback media from a URL.
 * [TAL](http://bbc.github.io/tal/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
@@ -139,7 +139,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://mixxx.org/) - A free, open source DJ software.
-* [Peaks.js](https://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
+* [Peaks.js](https://codeberg.org/chrisn/peaks.js) - Browser-based audio waveform visualisation.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [VLC](https://www.vlc.org) - Simple, fast and powerful media player.
 
@@ -159,7 +159,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [a_Multiview](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
-* [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
 * [LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 * [MediaConch](https://mediaarea.net/MediaConch) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
@@ -191,7 +190,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
-* [LibAV](https://libav.org/) - Open source audio and video processing tools.
+* [LibAV](https://github.com/libav/libav) - Open source audio and video processing tools.
 * [libbw64](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 * [libear](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 * [Libebur128](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
@@ -203,7 +202,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [rgain3](https://github.com/chaudum/rgain3) - Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
-* [SoX](https://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
+* [SoX](https://sourceforge.net/projects/sox/) - The Swiss Army knife of sound processing programs.
 * [SVT Encore](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
@@ -239,7 +238,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
 * [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
 * [Castopod](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
-* [gPodder](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
+* [gPodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 * [Podlove Publisher](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher/)).
 * [Podlove Web Player](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player/)).
 * [Ultraschall](https://github.com/Ultraschall) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
@@ -274,7 +273,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
-* [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
+* [GStreamer TTML subtitling package](https://github.com/BBC-archive/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 * [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
@@ -312,7 +311,6 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 * [IRT Lab](https://web.archive.org/web/20210830075332/https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
 * [The Netflix Tech Blog](https://netflixtechblog.com/) - A Netflix blog focused on technology and technology issues.
-* [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - What's happening with engineering and developers at YouTube.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
