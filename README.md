@@ -202,7 +202,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [rgain3](https://github.com/chaudum/rgain3) - Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.
 * [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
-* [SoX](https://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
+* [SoX](https://sourceforge.net/projects/sox/) - The Swiss Army knife of sound processing programs.
 * [SVT Encore](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
