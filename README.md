@@ -23,6 +23,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Podcasting](#podcasting)
   * [Radio Production](#radio-production)
   * [Rundown Automation](#rundown-automation)
+  * [SCTE-35](#scte-35)
   * [Software-defined radio](#software-defined-radio)
   * [Streaming](#streaming)
   * [Subtitling](#subtitling)
@@ -266,6 +267,11 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 * [OnTime](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
 * [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
+
+## SCTE-35
+
+* [threefive](https://github.com/superkabuki/threefive) - SCTE-35 Parser and Encoder for MPEGTS.
+* [x9k3](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
 ## Software-defined radio
 
