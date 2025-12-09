@@ -1,16 +1,17 @@
 # Awesome Broadcasting [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome open source resources for broadcasters.
 
-* [Awesome Broadcasting](#awesome-broadcasting)
+* [Awesome Broadcasting](#awesome-broadcasting-)
+  * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
   * [Clocks & Studio Screens](#clocks--studio-screens)
   * [Codecs](#codecs)
+  * [Communication](#communication)
   * [Companion Screens](#companion-screens)
   * [Connected TVs](#connected-tvs)
   * [Control Systems](#control-systems)
   * [Distributed Media Processing](#distributed-media-processing)
   * [Documentation](#documentation)
   * [DVB & WiFi](#dvb--wifi)
-  * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
   * [Hybrid Radio](#hybrid-radio)
   * [LiveIP](#liveip)
   * [Media Players](#media-players)
@@ -21,17 +22,36 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [NMOS](#nmos)
   * [Podcasting](#podcasting)
   * [Radio Production](#radio-production)
+  * [Rundown Automation](#rundown-automation)
+  * [SCTE-35](#scte-35)
   * [Software-defined radio](#software-defined-radio)
-  * [Subtitling](#subtitling)
-  * [Communication](#communication)
-  * [Video Production](#video-production)
   * [Streaming](#streaming)
+  * [Subtitling](#subtitling)
+  * [Video Production](#video-production)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Websites](#websites)
 * [Contributing](#contributing)
 
+## Animation, Graphics & Video Playout
+
+* [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
+* [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
+* [Bridge](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
+* [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
+* [ffplayout](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
+* [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
+* [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
+* [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
+* [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+* [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
+* [Sofie - TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+* [SPX - Graphics Controller](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
+* [StreamShapers - Ferryman](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
+* [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
+
 ## Clocks & Studio Screens
+
 * [OATIS](https://github.com/jamiehull/OATIS) - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
 * [OnAirScreen](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
@@ -46,6 +66,11 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
 * [Turing Codec](https://github.com/bbc/turingcodec) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
 * [TwoLame](https://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
+
+## Communication
+
+* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
+* [DYI intercom](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
 
 ## Companion Screens
 
@@ -86,23 +111,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [ts2mpa](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
 * [TSDuck](https://tsduck.github.io/) - Extensible toolkit for MPEG/DVB transport streams testing, monitoring, integration, debugging, and more.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
-
-## Animation, Graphics & Video Playout
-
-* [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
-* [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
-* [Bridge](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
-* [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
-* [ffplayout](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
-* [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
-* [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
-* [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
-* [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
-* [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
-* [Sofie - TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
-* [SPX - Graphics Controller](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
-* [StreamShapers - Ferryman](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
-* [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## Hybrid Radio
 
@@ -191,7 +199,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://github.com/libav/libav) - Open source audio and video processing tools.
-* [libbw64](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+* [libbw64](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 * [libear](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 * [Libebur128](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
@@ -255,9 +263,15 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
-## Rundown automation
+## Rundown Automation
+
 * [OnTime](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
 * [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
+
+## SCTE-35
+
+* [threefive](https://github.com/superkabuki/threefive) - SCTE-35 Parser and Encoder for MPEGTS.
+* [x9k3](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
 ## Software-defined radio
 
@@ -266,6 +280,11 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [ODR-mmbTools](https://www.opendigitalradio.org) - Fork of CRC-mmbTools. Adds live, DAB+, associated data, distributed infrastructure, SFN.
 * [rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
 * [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
+
+## Streaming
+
+* [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming platform (https://owncast.online/)
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)
 
 ## Subtitling
 
@@ -280,11 +299,6 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
-## Communication
-
-* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
-* [DYI intercom](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
-
 ## Video Production
 
 * [AutoMix](https://github.com/InsanityRadio/automix/) - Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.
@@ -294,11 +308,6 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
 * [TallyArbiter](https://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
 * [vMix-EmberPlus](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
-
-## Streaming
-
-* [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming platform (https://owncast.online/)
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
@@ -311,6 +320,8 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 * [IRT Lab](https://web.archive.org/web/20210830075332/https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
 * [The Netflix Tech Blog](https://netflixtechblog.com/) - A Netflix blog focused on technology and technology issues.
+
+## Websites
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
