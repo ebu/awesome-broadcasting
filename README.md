@@ -270,7 +270,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## SCTE-35
 
-* [threefive](https://github.com/superkabuki/threefive) - SCTE-35 Parser and Encoder for MPEGTS.
+* [threefive](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
 * [x9k3](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
 ## Software-defined radio
