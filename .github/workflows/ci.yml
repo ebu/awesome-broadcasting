@@ -21,7 +21,7 @@ jobs:
     - name: Install gem
       run: gem install awesome_bot
     - name: Check links
-      run: awesome_bot README.md --skip-save-results --white-list ebu.io/opensource,github.com/ebu/dash.js,github.com/ebu/cpa-auth-provider,github.com/sony/nmos-cpp,netflixtechblog.com/,projects.blender.org/blender/blender,www.kamailio.org/,ultraschall.fm/,www.videolan.org/projects/dvblast.html
+      run: awesome_bot README.md --skip-save-results --white-list ebu.io/opensource,github.com/ebu/dash.js,github.com/ebu/cpa-auth-provider,github.com/sony/nmos-cpp,netflixtechblog.com/,projects.blender.org/blender/blender,www.kamailio.org/,ultraschall.fm/,www.videolan.org/projects/dvblast.html,www.gnuradio.org/
 
   # GitHub Action to automate the identification of common misspellings in text files.
   # https://github.com/codespell-project/actions-codespell
