@@ -38,6 +38,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
 * [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
 * [Bridge](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
+* [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) - Python GUI application for seamless integration between CasparCG media servers and OBS Studio.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [ffplayout](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
