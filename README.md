@@ -310,6 +310,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
 * [TallyArbiter](https://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
+* [TallyLights](https://github.com/michalramus/TallyLights) - DIY tally lights supporting TSL 3.1 and 5.0 protocols, built around the WeMos D1 Mini microcontroller.
 * [vMix-EmberPlus](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
 # Resources
