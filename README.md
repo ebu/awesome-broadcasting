@@ -306,6 +306,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 * [AutoMix](https://github.com/InsanityRadio/automix/) - Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.
 * [MOS-connection](https://github.com/Sofie-Automation/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+* [obs-shotlister](https://github.com/michalramus/obs-shotlister) - Camera shot queue manager for live productions with OBS Studio integration, LAN web monitoring, and OSC support.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
