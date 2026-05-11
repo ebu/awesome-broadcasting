@@ -273,6 +273,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 ## SCTE-35 & SCTE-104
 
 * [threefive](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
+* [vastlint](https://github.com/aleksUIX/vastlint) - Validator and linter for VAST video ad tags, useful for checking ad-serving and streaming ad insertion workflows.
 * [wireshark-scte](https://github.com/m1tk4/wireshark-scte) - SCTE-104 protocol dissector for Wireshark.
 * [x9k3](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
