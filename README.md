@@ -93,6 +93,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Bitfocus Companion](https://github.com/bitfocus/companion) - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections). 
 * [Lawo EmberPlus](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
 * [MIDIMonster](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
+* [emberviewer](https://github.com/mattlamb99/emberviewer) - Cross-platform Ember+ viewer; browse providers, view/set parameters, route matrices, invoke functions, with an optional browser-based server mode.
 
 ## Distributed Media Processing
 
