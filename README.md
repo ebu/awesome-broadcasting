@@ -40,6 +40,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Bridge](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
 * [caspar-obs-client](https://github.com/michalramus/caspar-obs-client) - Python GUI application for seamless integration between CasparCG media servers and OBS Studio.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
+* [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Open-source media playback and show control for live video workflows.
 * [ffplayout](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
