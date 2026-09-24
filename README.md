@@ -71,8 +71,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Communication
 
-* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
 * [DYI intercom](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
+* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
+* [Talktome](https://github.com/thepoison606/talktome) - Self-hosted WebRTC intercom for live production with browser clients and a desktop audio bridge.
 
 ## Companion Screens
 
