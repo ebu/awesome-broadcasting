@@ -181,6 +181,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [silan](https://github.com/x42/silan) -  Audiofile silence analyzer.
 * [SilentJack](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 * [Sonic Visualiser](https://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
+* [StreamPilot](https://github.com/AlexandreLicinio/streampilot) - Real-time supervision and geolocation of mobile video transmitters (Haivision SST/StreamHub). GPS tracking, link metrics, Slack notifications and session reporting.
 * [VMAF](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
