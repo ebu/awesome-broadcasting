@@ -44,6 +44,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
 * [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
+* [now2play-lite](https://github.com/now2media/now2play-lite) - Open source Linux/Qt6 playout application built on the free-core now2sdk.
 * [OGraf](https://github.com/ebu/ograf) - Open specification for HTML based Graphics, used in live television and post production workflows.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
@@ -133,6 +134,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Icecast](https://icecast.org/) - Streaming media (audio/video) server which supports Ogg (Vorbis and Theora), Opus, WebM and MP3.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - A project founded in Sweden to publish Open Source software for professional radio broadcasts.
 * [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
+* [libvtp](https://github.com/now2media/libvtp) - Low-latency video transport protocol library with a C API, an open source alternative to NDI.
 * See the [NMOS](#nmos) list for the AMWA Networked Media Open Specifications and open source implementations and tools.
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 * [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
