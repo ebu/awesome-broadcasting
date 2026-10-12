@@ -171,6 +171,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
 * [LTC-tools](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+* [lufs-meter-js](https://github.com/diegobruegger-prog/lufs-meter-js) - Integrated loudness (ITU-R BS.1770-4 / EBU R 128) and true peak in plain JavaScript for browser and Node, any sample rate.
 * [MediaConch](https://mediaarea.net/MediaConch) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 * [MXF Inspect](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
