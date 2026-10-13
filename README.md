@@ -289,6 +289,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 * [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming platform (https://owncast.online/)
 * [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)
+* [TalkAStranger Streamer Extension](https://github.com/umairkhan2582/talkastranger-streamer-extension) - Manifest V3 Chrome extension providing a live streaming side panel HUD, real-time creator chat, and WebRTC screen/tab broadcaster studio.
 
 ## Subtitling
 
