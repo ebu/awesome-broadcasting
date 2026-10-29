@@ -311,6 +311,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [MOS-connection](https://github.com/Sofie-Automation/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 * [obs-shotlister](https://github.com/michalramus/obs-shotlister) - Camera shot queue manager for live productions with OBS Studio integration, LAN web monitoring, and OSC support.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
+* [Open Live](https://github.com/Eyevinn/open-live) - Browser-based live production API server with vision mixer, audio mixer and multiviewer for remote and cloud production, using SRT and WHIP contribution.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
 * [TallyArbiter](https://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
