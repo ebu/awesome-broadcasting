@@ -287,6 +287,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 
 ## Streaming
 
+* [icey](https://github.com/auscaster/icey) - C++20 toolkit for real-time media capture, FFmpeg processing, WebRTC transport, signalling, and TURN relay.
 * [Owncast](https://github.com/owncast/owncast) - Selfhosted video streaming platform (https://owncast.online/)
 * [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)
 
