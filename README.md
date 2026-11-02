@@ -167,6 +167,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Monitoring & Quality Control
 
 * [a_Multiview](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
+* [AudioLens](https://github.com/SimZhou/vscode-audiolens) - VS Code extension for audio playback, per-channel waveform and spectrogram inspection, and selection analysis.
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
