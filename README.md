@@ -299,6 +299,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [GStreamer TTML subtitling package](https://github.com/BBC-archive/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 * [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
+* [SpankVANC](https://github.com/videoengineeringtutorials-wq/SpankVANC) - Software caption encoder with local speech recognition, CEA-608/708 captions embedded in DeckLink SDI output, and optional Spanish CC2 translation.
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
