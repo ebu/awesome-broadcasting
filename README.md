@@ -265,6 +265,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [OpenBroadcaster](https://www.openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+* [StudioFire](https://github.com/veteranop/StudioFire) - Open-source Windows radio playout with schedule grid, dual-deck crossfade, Icecast/RTP, and zero-dead-air local cache.
 
 ## Rundown Automation
 
