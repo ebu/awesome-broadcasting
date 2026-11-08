@@ -111,6 +111,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Opencaster](https://github.com/aventuri/opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
 * [ts2mpa](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
+* [ts_analyze](https://github.com/perfect-soft/perfect-streamer-toolkit) - Command-line MPEG-TS analyzer: ETSI TR 101 290, PCR and T-STD checks for UDP/RTP streams (SMPTE ST 2022-1/-7) and TS files, with JSON/XML reports.
 * [TSDuck](https://tsduck.github.io/) - Extensible toolkit for MPEG/DVB transport streams testing, monitoring, integration, debugging, and more.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
