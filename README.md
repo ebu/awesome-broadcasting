@@ -97,6 +97,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Distributed Media Processing
 
+* [OpenMediaPlatform](https://github.com/infantilo/open-media-platform) - Modular, standards-first broadcast platform with NMOS IS-04/05/12, MXL media exchange, ST 2110/AES67 and a Go orchestrator.
 * [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## Documentation
