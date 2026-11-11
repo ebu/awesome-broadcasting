@@ -47,6 +47,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [OGraf](https://github.com/ebu/ograf) - Open specification for HTML based Graphics, used in live television and post production workflows.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
+* [pipeline-controller](https://github.com/infantilo/pipeline-controller) - A GStreamer-based multi-channel broadcast automation and playout system featuring playlist control, clip player, OGraf graphics integration for channel branding, and SMPTE ST 2110 Live IP support via Blackmagic DeckLink IP.
 * [Sofie - TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 * [SPX - Graphics Controller](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
 * [StreamShapers - Ferryman](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
@@ -96,6 +97,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Distributed Media Processing
 
+* [OpenMediaPlatform](https://github.com/infantilo/open-media-platform) - Modular, standards-first broadcast platform with NMOS IS-04/05/12, MXL media exchange, ST 2110/AES67 and a Go orchestrator.
 * [StormCV](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
 ## Documentation
