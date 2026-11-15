@@ -149,6 +149,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://mixxx.org/) - A free, open source DJ software.
+* [Open Media Explorer](https://github.com/aivrar/Open-Media-Explorer) - Portable Windows player for internet radio, live TV/IPTV, podcasts and public archives, with M3U playlist import.
 * [Peaks.js](https://codeberg.org/chrisn/peaks.js) - Browser-based audio waveform visualisation.
 * [rx-player](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [VLC](https://www.vlc.org) - Simple, fast and powerful media player.
